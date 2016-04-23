@@ -1,0 +1,9 @@
+{
+  "name": "Sicurezza e privacy nel computer",
+  "sections": [
+    {"section": "01_intro"},
+    {"section": "02_email"},
+    {"section": "03_web"},
+    {"section": "04_altro"}
+  ]
+}
